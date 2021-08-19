@@ -1,0 +1,4 @@
+db:
+  database: 'postgres'
+  port: 5432
+  synchronize: true
